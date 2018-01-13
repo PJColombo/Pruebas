@@ -10,7 +10,7 @@ Where has Sahana been used?
 ----------------
 - `Deployments <http://eden.sahanafoundation.org/wiki/Deployments>`_
 
-Case Studies:
+Case Studies
 ----------------
 - `ICT for Disaster Risk Reduction 2, Asian Pacific Training Centre for Information and Communications Technology for Development - 2010 <http://wiki.sahanafoundation.org/lib/exe/fetch.php/ictd-case_study-2-sahana.pdf>`_
 - `UNESCAP Technical Paper - 2009 <http://wiki.sahanafoundation.org/lib/exe/fetch.php/unescap-tech-paper-2009.pdf>`_
@@ -19,7 +19,7 @@ Case Studies:
 - `Asia-Pacific Development Information Programme - 2007 <http://wiki.sahanafoundation.org/lib/exe/fetch.php/apdip-case-study-2007.pdf>`_
 - `UNDP IOSN Case Study - 2006 <http://wiki.sahanafoundation.org/lib/exe/fetch.php/undp-iosn-casestudy-sahana-final-1.pdf>`_
 
-Available modules:
+Available modules
 ----------------
 - **Requests Management** - Tracks requests for items and assistance and matches them against sources.
 - **Inventory Management** – Receive, Send and Manage Items in Inventories
