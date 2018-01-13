@@ -3,9 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. toctree::
+   :maxdepth: 2
+   
+   index
+   use
+
 What is Sahana Eden?
 ===================
-
 - Sahana Eden is an Open Source Humanitarian Platform which can be used to provide solutions for Disaster Management, Development, and Environmental Management sectors.
 - Open Source means that it is easily Customisable, Extensible and Free.
 - It is supported by the  Sahana Software Foundation.
