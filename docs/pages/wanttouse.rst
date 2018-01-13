@@ -7,7 +7,7 @@ Try out one of our Demos:
 
 Install the software on your own system:
 ----------------
-- `Installation Guidelines </wanttouse/instalationguide>`_
+- `Installation Guidelines </wanttouse/instalationguide.rst>`_
 
 Read the Book
 ----------------
