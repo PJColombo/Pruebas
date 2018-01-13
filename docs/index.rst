@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 What is Sahana Eden?
-************************
+===================
 
 .. toctree::
    :maxdepth: 2
@@ -17,11 +17,11 @@ What is Sahana Eden?
 - `Project Brief http://www.slideshare.net/SahanaFOSS/sahana-brief-long-version-may-2010`_
 
 Where has Sahana been used?
-===================
+----------------
 - Deployments
 
 Case Studies:
-===================
+----------------
 - `ICT for Disaster Risk Reduction 2, Asian Pacific Training Centre for Information and Communications Technology for Development - 2010 <http://wiki.sahanafoundation.org/lib/exe/fetch.php/ictd-case_study-2-sahana.pdf>`_
 - `UNESCAP Technical Paper - 2009 <http://wiki.sahanafoundation.org/lib/exe/fetch.php/unescap-tech-paper-2009.pdf>`_
 - `Communications of the ACM - 2009 <http://wiki.sahanafoundation.org/lib/exe/fetch.php/hfoss_acm_august_2009.pdf>`_
@@ -30,7 +30,7 @@ Case Studies:
 - `UNDP IOSN Case Study - 2006 <http://wiki.sahanafoundation.org/lib/exe/fetch.php/undp-iosn-casestudy-sahana-final-1.pdf>`_
 
 Available modules:
-===================
+----------------
 - Requests Management - Tracks requests for items and assistance and matches them against sources.
 - Inventory Management – Receive, Send and Manage Items in Inventories
 - Volunteer Management - Manage volunteers by capturing their skills, availability and allocation.
