@@ -19,7 +19,7 @@ Read the User Manual
 
 Join the Community
 ----------------
-- - :doc:`./wanttouse/mailinglist`
+- :doc:`./wanttouse/mailinglist`
 - :doc:`./wanttouse/ircchat`
 
 If you’re using Sahana in your organization, please create a Deployment Page on the wiki to describe how you’ll be using Sahana and a BluePrint Page for any new features that you’d like to develop.
