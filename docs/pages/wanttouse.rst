@@ -3,7 +3,7 @@ Want to Use Sahana Eden?
 Try out one of our Demos
 ----------------
 - `Demo Site <http://demo.eden.sahanafoundation.org/>`_
-- `DRR Project <http://eden.sahanafoundation.org/wiki/InstallationGuidelines>`_
+- `DRR Project <http://demo.drrprojects.net/>`_
 
 Install the software on your own system
 ----------------
