@@ -8,7 +8,6 @@ What is Sahana Eden?
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
 
 - Sahana Eden is an Open Source Humanitarian Platform which can be used to provide solutions for Disaster Management, Development, and Environmental Management sectors.
 - Open Source means that it is easily Customisable, Extensible and Free.
@@ -31,15 +30,15 @@ Case Studies:
 
 Available modules:
 ----------------
-- Requests Management - Tracks requests for items and assistance and matches them against sources.
-- Inventory Management – Receive, Send and Manage Items in Inventories
-- Volunteer Management - Manage volunteers by capturing their skills, availability and allocation.
-- Missing Persons Registry - Report and Search for Missing Persons.
-- Disaster Victim Identification.
-- Shelter Registry - Tracks the location, distribution, capacity and breakdown of victims in Shelters.
-- Hospital Management System - Hospitals can share information on resources & needs.
-- Organization Registry - "Who is doing What & Where". Allows relief agencies to coordinate their activities.
-- Decision Support 2.0 - Virtual support of posting problems, discussing ideas, voting on solutions resulting in a ranked list.
-- Mapping - Situation Awareness & Geospatial Analysis.
-- Messaging - Sends & Receives Alerts via Email & SMS.
-- Document Library - A library of digital resources, such as Photos & Office documents.
+- **Requests Management** - Tracks requests for items and assistance and matches them against sources.
+- **Inventory Management** – Receive, Send and Manage Items in Inventories
+- **Volunteer Management** - Manage volunteers by capturing their skills, availability and allocation.
+- **Missing Persons Registry** - Report and Search for Missing Persons.
+- **Disaster Victim Identification**.
+- **Shelter Registry** - Tracks the location, distribution, capacity and breakdown of victims in Shelters.
+- **Hospital Management System** - Hospitals can share information on resources & needs.
+- **Organization Registry** - "Who is doing What & Where". Allows relief agencies to coordinate their activities.
+- **Decision Support 2.0** - Virtual support of posting problems, discussing ideas, voting on solutions resulting in a ranked list.
+- **Mapping** - Situation Awareness & Geospatial Analysis.
+- **Messaging** - Sends & Receives Alerts via Email & SMS.
+- **Document Library** - A library of digital resources, such as Photos & Office documents.
