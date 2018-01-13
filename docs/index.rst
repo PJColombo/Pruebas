@@ -4,9 +4,7 @@
    contain the root `toctree` directive.
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
-   
+   :maxdepth: 0  
    index
    use
 
