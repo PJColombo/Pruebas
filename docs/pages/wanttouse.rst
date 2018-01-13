@@ -1,6 +1,6 @@
 Want to Use Sahana Eden?
 ===================
-Try out one of our Demos:
+Try out one of our Demos
 ----------------
 - `Demo Site <http://demo.eden.sahanafoundation.org/>`_
 - `DRR Project <http://eden.sahanafoundation.org/wiki/InstallationGuidelines>`_
