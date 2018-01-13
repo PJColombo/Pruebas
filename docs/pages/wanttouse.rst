@@ -1,13 +1,13 @@
 Want to Use Sahana Eden?
 ===================
-Try out one of our Demos
+Try out one of our Demos:
 ----------------
 - `Demo Site <http://demo.eden.sahanafoundation.org/>`_
-- `DRR Project <http://demo.drrprojects.net/>`_
+- `DRR Project <http://eden.sahanafoundation.org/wiki/InstallationGuidelines>`_
 
-Install the software on your own system
+Install the software on your own system:
 ----------------
-- Installation Guidelines
+- Installation Guidelines </wanttouse/instalationguide>
 
 Read the Book
 ----------------
