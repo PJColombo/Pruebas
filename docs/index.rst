@@ -6,7 +6,8 @@
 Sahana Eden Documentation Index
 ************************
    
-.. toctree::
-   :caption: Contents:
-   What is Sahana Eden?</pages/whatis>
-   Want to use Sahana Eden?</pages/wanttouse>
+ .. toctree::
+     :maxdepth: 2
+     :caption: Contents:
+	What is Sahana Eden?</pages/whatis>
+	Want to use Sahana Eden?</pages/wanttouse>
