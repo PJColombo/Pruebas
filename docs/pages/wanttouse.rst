@@ -11,17 +11,16 @@ Install the software on your own system:
 
 Read the Book
 ----------------
-- Book
+- :doc:`./wanttouse/book`
 
 Read the User Manual
 ----------------
-- User Guidelines
+- :doc:`./wanttouse/userguidelines`
 
 Join the Community
 ----------------
-- Mailing List
-- IRC Chat
-- Use the Wiki
+- - :doc:`./wanttouse/mailinglist`
+- :doc:`./wanttouse/ircchat`
 
 If you’re using Sahana in your organization, please create a Deployment Page on the wiki to describe how you’ll be using Sahana and a BluePrint Page for any new features that you’d like to develop.
 
