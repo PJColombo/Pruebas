@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'eden'
-copyright = '2018, Eduardo Romero Palencia'
-author = 'Eduardo Romero Palencia'
+#copyright = '2018, Eduardo Romero Palencia'
+#author = 'Eduardo Romero Palencia'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
