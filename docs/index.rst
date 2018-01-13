@@ -4,8 +4,11 @@
    contain the root `toctree` directive.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
+   
+   index
+   use
 
 What is Sahana Eden?
 ===================
