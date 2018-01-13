@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to eden's documentation!
+What is Sahana Eden?
 ================================
 
 .. toctree::
@@ -19,11 +19,11 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Sahana Eden is an Open Source Humanitarian Platform which can be used to provide solutions for Disaster Management, Development, and Environmental Management sectors.
-Open Source means that it is easily Customisable, Extensible and Free.
-It is supported by the  Sahana Software Foundation.
-Try it now on our  Demo Site
- Project Brief
+-Sahana Eden is an Open Source Humanitarian Platform which can be used to provide solutions for Disaster Management, Development, and Environmental Management sectors.
+-Open Source means that it is easily Customisable, Extensible and Free.
+-It is supported by the  Sahana Software Foundation.
+-Try it now on our `Demo Site <http://demo.eden.sahanafoundation.org/>`_
+-`Project Brief http://www.slideshare.net/SahanaFOSS/sahana-brief-long-version-may-2010`_
 Where has Sahana been used?
 Deployments
 Case Studies:
