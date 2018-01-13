@@ -6,9 +6,6 @@
 What is Sahana Eden?
 ===================
 
-.. toctree::
-   :maxdepth: 1
-
 - Sahana Eden is an Open Source Humanitarian Platform which can be used to provide solutions for Disaster Management, Development, and Environmental Management sectors.
 - Open Source means that it is easily Customisable, Extensible and Free.
 - It is supported by the  Sahana Software Foundation.
