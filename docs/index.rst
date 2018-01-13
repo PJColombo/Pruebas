@@ -7,7 +7,6 @@ Sahana Eden Documentation Index
 ************************
    
  .. toctree::
-     :maxdepth: 2
-     :caption: Contents:
+    :maxdepth: 2
 	What is Sahana Eden?</pages/whatis>
 	Want to use Sahana Eden?</pages/wanttouse>
