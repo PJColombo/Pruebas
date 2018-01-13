@@ -5,9 +5,7 @@
 
 .. toctree::
    :maxdepth: 2
-   
-   index
-   use
+   :caption: Contents:
 
 What is Sahana Eden?
 ===================
