@@ -4,10 +4,9 @@
    contain the root `toctree` directive.
 
 .. toctree::
-   :maxdepth: 1
-   
+
    index
-   </pages/use>
+   Want to use</pages/use>
 
 What is Sahana Eden?
 ===================
