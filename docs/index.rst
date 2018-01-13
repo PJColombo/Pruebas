@@ -7,7 +7,7 @@
    :maxdepth: 1
    
    index
-   use
+   `./pages/use`
 
 What is Sahana Eden?
 ===================
